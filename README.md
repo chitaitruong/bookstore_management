@@ -7,7 +7,7 @@
 
 * **Home Screen**
 <p align="center">
-  <img src="./img/Picture5.png" alt="Size Limit CLI" width="200">
+  <img src="./img/Picture5.png" alt="Size Limit CLI" width="600">
 </p>
 
 * **User Management Screen**
