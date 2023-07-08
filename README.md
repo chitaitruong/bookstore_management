@@ -76,7 +76,8 @@
 <p align="center">
   <img src="./img/Picture31.png" alt="Size Limit CLI" width="600">
 </p>
-** ***Chart***
+
+** **Chart**
 <p align="center">
   <img src="./img/Picture32.png" alt="Size Limit CLI" width="600">
 </p>
