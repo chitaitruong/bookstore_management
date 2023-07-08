@@ -2,7 +2,7 @@
 
 * **Login Screen**
 <p align="center">
-  <img src="./img/Picture.png" alt="Size Limit CLI" width="200">
+  <img src="./img/Picture.png" alt="Size Limit CLI" width="400">
 </p>
 
 * **Home Screen**
